@@ -17,7 +17,7 @@ public class Main {
         Person person = new Person(2, "Anar", "Feteliyev");
         Teacher teacher = new Teacher(3, "Shebnem", "Memmedova", 1000);
         teacher.goToUni();
-        student.dasd();
+
 //        System.out.println(student.getName());
     }
 }
