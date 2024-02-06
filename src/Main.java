@@ -12,7 +12,7 @@ public class Main {
 
         Student student = new Student(1, "Nermin", "Memmedli", 100, "IT");
 
-        student.setName("Elman");
+//        student.setName("Elman");
 
         Person person = new Person(2, "Anar", "Feteliyev");
         Teacher teacher = new Teacher(3, "Shebnem", "Memmedova", 1000);
